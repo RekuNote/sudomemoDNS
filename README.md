@@ -24,6 +24,8 @@
 - **MITM Logging:** Captures and logs all DNS requests and responses.
 - **HTML Logging:** Generates an HTML file to view logs in a browser.
 - **File Downloading:** Saves files transferred in DNS responses to the local filesystem.
-- **Terminal Notifications:** Provides real-time logging and notifications in the terminal.## Getting Help
+- **Terminal Notifications:** Provides real-time logging and notifications in the terminal.
+
+## Getting Help
 
 If you encounter any issues with sudomemoDNS-MITM, please open an issue in this repository. Do not open issues in the original sudomemoDNS repository if your issue is related to sudomemoDNS-MITM.
