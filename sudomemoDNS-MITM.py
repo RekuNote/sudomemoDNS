@@ -10,7 +10,7 @@ from dnslib.server import DNSServer, DNSHandler, BaseResolver, DNSLogger
 from requests import get, RequestException, Timeout
 
 BASE_VERSION = "1.2.1"
-MITM_VERSION = "v0.1.8"
+MITM_VERSION = "v0.1.9"
 
 # Ensure directories exist
 os.makedirs('files/mitm/', exist_ok=True)
@@ -201,7 +201,7 @@ print("== Getting Help ==")
 print("Need help? Visit our Discord server at https://www.reximemo.net/discord and message Rekushi.\n")
 
 print("== Shameless Plug ==")
-print("Using this tool because you're setting up your own Flipnote Hatena server that's not proprietary like Sudomemo? Consider RexiMemo, an open source alternative! @ https://www.reximemo.net/\n")
+print("Using this tool because you're setting up your own Flipnote Hatena server? Consider RexiMemo, an open source alternative! @ https://www.reximemo.net/\n")
 
 print("[INFO] Starting sudomemoDNS-MITM...")
 
